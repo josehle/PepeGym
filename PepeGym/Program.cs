@@ -14,4 +14,17 @@ namespace PepeGym
             Application.Run(new Form1());
         }
     }
+    class Example 
+    {
+        public Example() 
+        {
+            // This is a comment in the constructor
+            Console.WriteLine("Hello, World!");
+        }
+        public void Method() 
+        {
+            // This is a comment in a method
+            Console.WriteLine("This is a method.");
+        }
+    }
 }
