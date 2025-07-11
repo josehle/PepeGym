@@ -25,6 +25,8 @@ namespace PepeGym
         {
             // This is a comment in a method
             Console.WriteLine("This is a method.");
+
+            int a = 198;
         }
     }
 }
