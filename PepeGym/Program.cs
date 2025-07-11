@@ -29,6 +29,7 @@ namespace PepeGym
             int a = 198;
 
             string s = "Cambios para la rama develop";
+            string o = "otro cambio";
         }
     }
 }
