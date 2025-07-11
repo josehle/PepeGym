@@ -27,6 +27,9 @@ namespace PepeGym
             Console.WriteLine("This is a method.");
 
             int a = 198;
+
+            string s = "Cambios para la rama develop";
+            string o = "otro cambio";
         }
     }
 }
