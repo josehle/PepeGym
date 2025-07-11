@@ -31,5 +31,9 @@ namespace PepeGym
             string s = "Cambios para la rama develop";
             string o = "otro cambio";
         }
+        public void Feature1()
+        {
+            // something
+        }
     }
 }
